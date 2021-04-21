@@ -4,5 +4,5 @@
 #### 2-height in cms
 #### 3-country
 #### 4-religion
-#### -profession
-#### -caste
+#### 5-profession
+#### 6-caste
